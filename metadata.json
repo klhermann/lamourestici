@@ -1,0 +1,5 @@
+{
+  "name": "LAEI - L'Amour Est Ici",
+  "description": "Application de rencontre",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
